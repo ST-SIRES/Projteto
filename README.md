@@ -1,5 +1,6 @@
 # Projteto
 Aprendendo git
-instale o nde em  sua máquina para roldar o projeto
+
+Instale o node js para verificar o projeto
 
 node  app.js

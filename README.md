@@ -1,3 +1,5 @@
 # Projteto
 Aprendendo git
-node app.js
+instale o nde em  sua máquina para roldar o projeto
+
+node  app.js
